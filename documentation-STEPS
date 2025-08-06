@@ -1,0 +1,23 @@
+http://localhost:8080/index
+http://localhost:8080/login
+http://localhost:8080/signup
+
+adding THYMELEAF
+injecting the login,index,signup page data into NAV base page
+
+<!--    adding bootstrap things , link and script-->
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+<!--    for font and icons we use font awesome -->
+https://cdnjs.com/libraries/font-awesome
+
+carousel from bootstrap
+
+Creating the HTML part
+
+for backend
+we have created only the rendering pages
+
+
+
+
